@@ -13,10 +13,7 @@
                 </tree>
             </field>
         </record>
-        asdfasdf
-        asdf
-        asdf
-        asdf
+        This is an additional content 
 
 
         <record model="ir.ui.view" id="course_form_view">
