@@ -13,11 +13,7 @@
                 </tree>
             </field>
         </record>
-        asdfasdf
-        asdf
-        asdf
-        asdf
-
+        This should be removed
 
         <record model="ir.ui.view" id="course_form_view">
             <field name="name">openacademy.course.form</field>
