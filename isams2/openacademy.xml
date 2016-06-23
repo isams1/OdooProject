@@ -13,8 +13,23 @@
                 </tree>
             </field>
         </record>
+        asdfasdf
+        asdf
+        asdf
+        asdf
+        asd
+        fa
+        sdf
+        as
+        df
+        asd
+        fa
+        sd
+        fas
+        df
+        as
+        df
     
-
         <record model="ir.ui.view" id="course_form_view">
             <field name="name">openacademy.course.form</field>
             <field name="model">openacademy.course</field>
@@ -41,7 +56,7 @@
                                 <field name="description"/>
                             </page>
                             <page string="About">
-                                This is an example of notebooks
+                                AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
                             </page>
                         </notebook>
                     </sheet>
